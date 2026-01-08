@@ -1,0 +1,7 @@
+{
+DatasetDir: "/px-storage/data/electromart/dataset"
+LandingDir: "/px-storage/data/electromart/file"
+StateFileDir: "/px-storage/data/electromart/file"
+ReportDir: "/px-storage/data/electromart/report"
+RejectDir: "/px-storage/data/electromart/reject"
+}
