@@ -1,0 +1,41 @@
+{
+  "project" : "Lance01",
+  "projectId" : "3e223675-e9bf-4590-9054-09da05a0f443",
+  "created_by" : "admin",
+  "created_at" : "2026-01-08T20:18:00.870977498Z",
+  "environment" : "cp4d",
+  "services_info" : [ {
+    "name" : "ds-canvas",
+    "version" : "520.0.16"
+  }, {
+    "name" : "ds-flows",
+    "version" : "520.0.16"
+  }, {
+    "name" : "ds-codegen",
+    "version" : "520.0.16"
+  }, {
+    "name" : "ds-flow-runtime",
+    "version" : "520.0.3"
+  }, {
+    "name" : "ds-migration",
+    "version" : "520.0.3"
+  }, {
+    "name" : "DSAssets",
+    "version" : "520.0.6"
+  }, {
+    "name" : "ds-cas-lite",
+    "version" : "520.0.3"
+  }, {
+    "name" : "ds-px-runtime",
+    "version" : "520.0.17"
+  }, {
+    "name" : "qs-ruleset",
+    "version" : "520.0.3"
+  } ],
+  "assets" : [ {
+    "name" : "psGlobal.",
+    "type" : "parameter_set",
+    "location" : ""
+  } ],
+  "flow_job_mapping" : [ ]
+}

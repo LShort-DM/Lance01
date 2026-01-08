@@ -1,0 +1,51 @@
+{
+  "parameter_set" : {
+    "name" : "psGlobal",
+    "description" : "",
+    "parameters" : [ {
+      "name" : "DatasetDir",
+      "prompt" : "Dataset Directory",
+      "type" : "path",
+      "value" : ""
+    }, {
+      "name" : "LandingDir",
+      "prompt" : "Sequential File Directory",
+      "type" : "path",
+      "value" : ""
+    }, {
+      "name" : "StateFileDir",
+      "prompt" : "State File Directory",
+      "type" : "path",
+      "value" : ""
+    }, {
+      "name" : "ReportDir",
+      "prompt" : "Report File Directory",
+      "type" : "path",
+      "value" : ""
+    }, {
+      "name" : "RejectDir",
+      "prompt" : "Reject File Directory",
+      "type" : "path",
+      "value" : ""
+    } ],
+    "value_sets" : [ {
+      "values" : [ {
+        "name" : "DatasetDir",
+        "value" : "/data/electromart/dataset"
+      }, {
+        "name" : "LandingDir",
+        "value" : "/data/electromart/file"
+      }, {
+        "name" : "StateFileDir",
+        "value" : "/data/electromart/file"
+      }, {
+        "name" : "ReportDir",
+        "value" : "/data/electromart/report"
+      }, {
+        "name" : "RejectDir",
+        "value" : "/data/electromart/reject"
+      } ],
+      "name" : "local"
+    } ]
+  }
+}
